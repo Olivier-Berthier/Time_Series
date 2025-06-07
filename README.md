@@ -14,7 +14,7 @@ Le modèle final SARIMA (1,1,1)x(0,1,1)[12] et le modèle ETS(AAA) ont été cal
 
 Le projet met l’accent sur la rigueur de l'analyse, la reproductibilité des résultats (tout le code est fourni en R), ainsi que l’importance de l’exploration initiale avant la construction de modèles avancés pour la prévision.
 
-# Analyse de séries temporelles_2 : prévision du trafic SNCF
+# Analyse de séries temporelles_2 : Taux de chômage régional
 
 Après une première analyse classique de séries temporelles (rapport I), ce second volet vise à comparer les performances de deux approches avancées.
 L’objectif principal maintenant d’explorer différentes méthodes de prévision de séries temporelles appliquées au taux de chômage régional (Pays de la Loire) et national (France) entre 1990 et 2020, à partir de données fournies par l’INSEE.
